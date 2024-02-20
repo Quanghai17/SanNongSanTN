@@ -18,6 +18,7 @@
                     <div class="row">
                         <div class="col-12">
                 {!! sc_html_render($modelPage->start()->getDetail($layout->text, $type = 'alias', $checkActive = 0)->content ?? '') !!}
+                
                         </div>
                     </div>
                 </div>

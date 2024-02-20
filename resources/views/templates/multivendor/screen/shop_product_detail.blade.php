@@ -295,6 +295,7 @@ $layout_page = home
                                     <div class="tab-pane fade" id="Reviews">
                                         <!-- Render include view -->
                                         @include($sc_templatePath.'.common.include_view')
+                                        {{-- @dd($points); --}}
                                         <!--// Render include view -->
                                         <!--Comments-->
                                         <div class="comments-area">

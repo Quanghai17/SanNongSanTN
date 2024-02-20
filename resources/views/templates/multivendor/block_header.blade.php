@@ -34,7 +34,7 @@
                 <div class="logo logo-width-1">
                     <a href="{{ sc_route('home') }}" style="text-align: center;">
                         <img src="{{ sc_file(sc_store('logo', $storeId ?? null)) }}" alt="logo">
-                        <h4 style="color: #0f5138;">Nông sản Thái Nguyên</h4>
+                        <h4 style="color: #0f5138;">Nông sản Bắc Hà</h4>
                     </a>
                 </div>
                 <div class="header-right">
